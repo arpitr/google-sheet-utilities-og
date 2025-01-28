@@ -1,0 +1,52 @@
+Privacy Policy
+Introduction
+
+This privacy policy outlines how your data is handled when you use this application (the "App") developed using Google Apps Script. This App only interacts with the active Google Spreadsheet you are working with. It reads data from the spreadsheet and has the permission to create new sheets, delete existing sheets, and modify data within the sheets.
+
+By using this App, you consent to the collection and usage of data as outlined in this policy.
+Data Access and Permissions
+1. Data Access
+
+This App only has access to the data within the active Google Spreadsheet you are using. It does not access or collect data from any other documents or services.
+2. Permissions Required
+
+The App requires the following permissions:
+
+    Read: The App will read the data within the active Google Spreadsheet to perform its operations.
+    Write: The App will be able to add new data, modify existing data, and create new sheets within the active spreadsheet.
+    Delete: The App will have the ability to delete sheets within the active spreadsheet as needed.
+
+These permissions are necessary for the functionality of the App and ensure that the operations you perform in the active spreadsheet are supported.
+3. No Personal Data Collection
+
+This App does not collect, store, or share any personal data beyond the data present within the active Google Spreadsheet. It only works with the content inside the spreadsheet and does not use any external databases or services to store user data.
+Data Security
+1. Google Account Authentication
+
+To use this App, you will need to authenticate using your Google account. Google’s authentication system is used to ensure the security of your account.
+2. Data Stored in Google Sheets
+
+All data accessed and modified by the App is stored directly within your Google Sheets document. The App does not transmit any data outside of Google Sheets. You are in full control of your data and can modify or delete it at any time.
+3. No Third-Party Access
+
+The App does not share your data with any third-party services. All actions performed by the App (e.g., creating, deleting, or modifying data) are executed only within the active Google Spreadsheet and are visible only to the users with access to that spreadsheet.
+Data Usage
+1. Purpose
+
+The data within your spreadsheet is used solely to:
+
+    Perform actions like reading data, adding data, creating new sheets, and deleting sheets based on the functionality of the App.
+    Allow users to interact with the data in ways that enhance their productivity within Google Sheets.
+
+2. Data Retention
+
+No data is stored or retained outside of your Google Spreadsheet. Once the App finishes its operation (such as adding or deleting data), the data remains within the spreadsheet as part of the document.
+3. Data Deletion
+
+You can delete or modify the data within the Google Sheets document at any time. If you no longer wish to use the App, you can revoke the permissions granted to it in your Google account settings.
+Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be reflected in this document, and we will notify you of any material changes. Please review this privacy policy periodically for updates.
+Contact Us
+
+If you have any questions or concerns about this privacy policy or how your data is used, please feel free to contact us.
