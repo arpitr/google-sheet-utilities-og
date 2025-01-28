@@ -1,7 +1,7 @@
 function generateReport() {
+  renameSheet();
   defineCell();
   // Get the active spreadsheet and the first sheet
-  //const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   const sheet = createNewSheet();
   buildHeader(sheet);
 
@@ -310,4 +310,10 @@ function createNewSheet() {
   } else {
     SpreadsheetApp.getUi().alert("Failed to create the new sheet.");
   }
+}
+
+function renameSheet() {
+  var spreadsheet = SpreadsheetApp.getActiveSpreadsheet(); // Get the active spreadsheet
+  var sheet = spreadsheet.getActiveSheet(); // Get the active sheet
+  sheet.setName("Investment Data"); // Set the new name of the sheet
 }
